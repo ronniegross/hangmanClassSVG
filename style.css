@@ -1,0 +1,26 @@
+.hangmanSVG {
+    width: 15%;
+    height: 15%;
+}
+.cls-1, .cls-2, .cls-3 {
+    fill: none;
+    stroke: #333;
+}
+.cls-1, .cls-2 { 
+    stroke-miterlimit: 10;
+}
+.cls-1 {
+    stroke-width: 5px;
+}
+.cls-2, .cls-3 {
+    stroke-width: 6px;
+}
+.cls-3 {
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    /* stroke: #333; */
+    /* fill: #333; */
+}
+/* #body {
+    stroke-width: 12px;
+} */
